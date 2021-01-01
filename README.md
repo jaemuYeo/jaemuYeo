@@ -1,6 +1,6 @@
-![JaeMU YEO github stats](https://github-readme-stats.vercel.app/api?username=jaemuYeo&show_icons=true)
+### JaeMU YEO 👨‍💻
 
-### Hi there 👋
+![JaeMU YEO github stats](https://github-readme-stats.vercel.app/api?username=jaemuYeo&show_icons=true)
 
 <!--
 **jaemuYeo/jaemuYeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
